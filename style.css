@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#main-container {
+    
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(17, 81, 155);
+    color: rgb(178, 197, 6);
+    width: 300px;
+    border: 2px solid rgb(218, 247, 56);
+    padding: 20px 10px;
+    margin: 100px auto;
+}
+
+button {
+    margin: 10px;
+    padding: 5px;
+    text-shadow: 1px 2px;
+    color: blue;
+}
+
+#luckyNumber {
+    font-size: large;
+    font-weight: bolder;
+    color: red;
+}
